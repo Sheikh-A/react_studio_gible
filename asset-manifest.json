@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_studio_gible/static/css/main.1eaf821e.chunk.css",
+    "main.js": "/react_studio_gible/static/js/main.7f8a7c5b.chunk.js",
+    "main.js.map": "/react_studio_gible/static/js/main.7f8a7c5b.chunk.js.map",
+    "runtime~main.js": "/react_studio_gible/static/js/runtime~main.af69e834.js",
+    "runtime~main.js.map": "/react_studio_gible/static/js/runtime~main.af69e834.js.map",
+    "static/js/2.aba82f17.chunk.js": "/react_studio_gible/static/js/2.aba82f17.chunk.js",
+    "static/js/2.aba82f17.chunk.js.map": "/react_studio_gible/static/js/2.aba82f17.chunk.js.map",
+    "index.html": "/react_studio_gible/index.html",
+    "precache-manifest.3302900e3a00d37356dd45d60543161e.js": "/react_studio_gible/precache-manifest.3302900e3a00d37356dd45d60543161e.js",
+    "service-worker.js": "/react_studio_gible/service-worker.js",
+    "static/css/main.1eaf821e.chunk.css.map": "/react_studio_gible/static/css/main.1eaf821e.chunk.css.map",
+    "static/media/logo.png": "/react_studio_gible/static/media/logo.2d0769cb.png"
+  }
+}
